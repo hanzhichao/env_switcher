@@ -1,0 +1,10 @@
+{
+    "url": "http://pre.wechat.spicespirit.com/wechat/index/wxmp/wpush",
+    "callback_token": "vcVzVbBdWtAiN9bEZoaQRggumDqj2qkk",
+    "encoding_aeskey": "z0DTQZiAAP7m1lcMwU7edIlIExKoG5BUX5qeMNkYqXt",
+    "callback_encrypt_mode": "0",
+    "operation_seq": "422591593",
+    "action": "set_callback",
+    "type": "check_domain",
+    "step": "1"
+}

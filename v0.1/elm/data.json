@@ -1,0 +1,23 @@
+{
+  "id": "db21b210-ac10-4078-94f1-daad59e7ed2e",
+  "method": "updateSandboxEnvironment",
+  "service": "ApplicationApIService",
+  "params": {
+    "sandBoxCondition": {
+      "appId": 51771218,
+      "pushUrl": "%s",
+      "subscribeMessage": [
+        "10",
+        "14"
+      ],
+      "callBackUrl": "%s",
+      "retryCount": 3
+    }
+  },
+  "metas": {
+    "appName": "Odin",
+    "appVersion": "4.4.0",
+    "ksid": "NWIyMDg1MTEtMWQ4Yi00NzQzLWJjMTYjAwYT"
+  },
+  "ncp": "2.0.0"
+}

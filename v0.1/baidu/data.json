@@ -1,0 +1,13 @@
+{
+    "app_id": "17",
+    "nick":"麻辣诱惑订单2.0",
+    "source":"65478",
+    "push_url":"http://dev2.spicespirit.com/Itackaway/TTakeaway/b",
+    "alarm_phones":"18501900099",
+    "api_version":"2",
+    "order_create":"1",
+    "order_status_push":"2",
+    "shop_status_push":"2",
+    "order_index":"2",
+    "shop_bind_msg":"2"
+}
